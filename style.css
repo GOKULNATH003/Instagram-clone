@@ -94,7 +94,7 @@ position: absolute;
     margin-left: auto;
     height:3.5vh;
     font-size: 1vw;
-cursour:pointer;
+cursor: pointer;
     color: white;
     border-radius: 3px;
     text-align: center;
@@ -129,6 +129,8 @@ i{
     ;
     font-size: larger;
     transform: translateX(100px) translateY(-6px);
+cursor: pointer;
+
 }
 .lfb{
     color: #4267B2
@@ -137,6 +139,7 @@ i{
     font-weight: 600;
     font-size: 1vw;
     transform: translateX(125px) translateY(-40px);
+    cursor: pointer;
 
 }
 .fpass{
@@ -144,6 +147,8 @@ i{
     font-size: .85vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     transform: translateX(2px) translateY(-30px);
+cursor: pointer;
+
 }
 .bottom{
     border :1px solid rgba(194, 192, 192,0.5);
@@ -173,16 +178,21 @@ align-items: center;
     transform: translateX(25px)  translateY(17px);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1vw;
+
 }
 .d1{
     width: 135px;
     transform: translateX(60px)  translateY(25px);
+cursor: pointer;
+
 
 
 }
 .d2{
     width: 135px;
     transform: translateX(65px)  translateY(25px);
+cursor: pointer;
+
 
 }
 .l1{
